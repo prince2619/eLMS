@@ -94,7 +94,7 @@ Now the project should be running on http://127.0.0.1:8000/
 
 Login as admin and add some courses, teacher and students.
 
-Demo : https://youtu.be/NyL2ajUNxYk
+
 
 ## License
 
