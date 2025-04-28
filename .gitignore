@@ -88,3 +88,5 @@ db.sqlite3
 media/
 
 eLMS data.txt
+/media/
+/staticfiles/
